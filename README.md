@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=60&text=Hello%20World!%20😲&fontSize=38&fontAlign=20)
+![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&text=Hello%20World!%20😲&fontSize=28&fontAlign=15)
 
 
 #### **💼 Experienced in**
