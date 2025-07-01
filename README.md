@@ -59,7 +59,7 @@
  Last Updated on 30/06/2025 18:51:40 UTC
 <!--END_SECTION:waka-->
 
-##### 🧠  My LeetCode Stats (...)<br>
+##### 🧠  My LeetCode Stats 😭(...)<br>
 | <img src="https://leetcard.jacoblin.cool/inuse918?theme=dark&font=Roboto&ext=activity" width="230"/> | ![LeetCode Stats](https://raw.githubusercontent.com/inuse918/inuse918/main/metrics.plugin.leetcode.svg) |
 | --- | --- |
 
