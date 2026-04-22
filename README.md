@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=40&text=Hello%20World!%20😲&fontSize=28&fontAlign=15)
 
 
-#### **💼 Experienced in**
+#### **💼 Worked with**
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Pro*C-00599C?style=for-the-badge" />
